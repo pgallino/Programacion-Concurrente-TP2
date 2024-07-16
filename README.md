@@ -1,5 +1,6 @@
 # Técnicas de Programación Concurrente I -Trabajo Práctico 2 “Heladería Robotizada”
 
+## Enunciado
 [Enunciado](./enunciado.pdf)
 
 ## Integrantes
