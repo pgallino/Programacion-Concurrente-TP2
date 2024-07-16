@@ -1,5 +1,7 @@
 # Técnicas de Programación Concurrente I -Trabajo Práctico 2 “Heladería Robotizada”
 
+[Enunciado](./enunciado.pdf)
+
 ## Integrantes
 
 Pedro Gallino 107587
